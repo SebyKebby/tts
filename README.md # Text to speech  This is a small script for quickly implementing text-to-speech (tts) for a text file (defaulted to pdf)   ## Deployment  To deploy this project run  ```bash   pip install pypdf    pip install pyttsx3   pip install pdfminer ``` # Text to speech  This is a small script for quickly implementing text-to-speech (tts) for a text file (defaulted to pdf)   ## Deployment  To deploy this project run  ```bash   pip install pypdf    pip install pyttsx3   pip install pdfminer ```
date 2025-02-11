@@ -1,0 +1,16 @@
+
+# Text to speech
+
+This is a small script for quickly implementing text-to-speech (tts) for a text file (defaulted to pdf)
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  pip install pypdf 
+  pip install pyttsx3
+  pip install pdfminer
+```
+
